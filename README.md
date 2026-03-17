@@ -60,7 +60,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+👉 https://analyze-purchase-new.vercel.app/
 
 ---
 
